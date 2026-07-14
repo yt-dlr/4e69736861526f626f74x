@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v4
       
       - run: chmod +x aditya
-      - run: sudo ./aditya 128.14.7.238 7981 60
+      - run: sudo ./aditya 128.14.7.196 7866 60
     
